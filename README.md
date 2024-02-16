@@ -8,7 +8,7 @@ the test runner.
 Clone the boilerplate as a new project:
 
 ```bash
-git clone https://github.com/bschlenk/node-typescript-jest-boilerplate.git <project>
+git clone https://github.com/yellowcardfinancial/node-typescript-jest-boilerplate <project>
 ```
 
 Update [package.json](package.json) as you see fit.
